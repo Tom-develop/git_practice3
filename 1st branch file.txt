@@ -1,1 +1,2 @@
 text for my 1st branch file
+append line as part of 2nd branch4
