@@ -1,1 +1,2 @@
 text for my 1st branch file
+append line to force conflict w/ 2nd branch
