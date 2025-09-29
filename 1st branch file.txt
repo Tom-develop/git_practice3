@@ -1,2 +1,5 @@
 text for my 1st branch file
 append line to force conflict w/ 2nd branch
+3rd line
+4th line
+5th line
